@@ -31,6 +31,7 @@ pinned: false
 An enterprise-grade RAG (Retrieval Augmented Generation) chatbot that allows users to upload any PDF and interact with it using natural language. Built with LangChain, Groq LLaMA 3, FAISS, and Streamlit.
 
 🔗 Live Demo: [huggingface.co/spaces/Yugadharshini/DocuMind-AI](https://huggingface.co/spaces/Yugadharshini/DocuMind-AI)
+
 🔗 GitHub: [github.com/skrYugadharshini/DocuMind-AI](https://github.com/skrYugadharshini/DocuMind-AI)
 
 ---
