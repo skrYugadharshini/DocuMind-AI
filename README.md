@@ -1,7 +1,15 @@
-<<<<<<< HEAD
-# 📄 RAG Chatbot
+---
+title: DocuMind-AI
+emoji: 📄
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
 
-A Retrieval-Augmented Generation (RAG) chatbot that answers questions from any PDF document.
+# 📄 DocuMind-AI
+
+An intelligent document assistant powered by RAG, LangChain, Groq LLaMA 3, and FAISS. Upload any PDF and chat with it using state-of-the-art AI — built for real-world enterprise use.
 
 ## 🚀 Features
 - Upload any PDF
@@ -21,7 +29,3 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions from any P
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your Groq API key in `.env`
 4. Run: `streamlit run app.py`
-=======
-# DocuMind-AI
-An intelligent document assistant powered by RAG, LangChain,  Groq LLaMA 3, and FAISS. Upload any PDF and chat with it  using state-of-the-art AI — built for real-world enterprise use.
->>>>>>> c928729e2ea30c15acbcaf6550314fcc867ab925
